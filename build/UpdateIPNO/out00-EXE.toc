@@ -1,0 +1,9 @@
+('C:\\Python27\\ShahiSolutions\\dist\\UpdateIPNO.exe',
+ False,
+ False,
+ 'logo.ico',
+ None,
+ [],
+ None,
+ False,
+ 1436512732L)
